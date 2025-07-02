@@ -306,6 +306,9 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 Please consider giving a star, if you find this repository useful. 
 
 
+### Agentic RAG :
+[Link](https://github.com/asinghcsu/AgenticRAG-Survey?tab=readme-ov-file)
+
 ## github chatbot  playgound link.
 https://github.com/marketplace/models/azureml-xai/grok-3/playground
 
